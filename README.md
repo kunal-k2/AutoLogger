@@ -16,5 +16,5 @@ Note:- Your original file will not be affected here
 
 ## Advantage:
 
-  You can keep track of function calls which will help in debugging 
+  You can keep track of function calls which will help in debugging.
   ex: printf("  %s  %s  line no = %d ",__FILE__,__FUNCTION__,__LINE__);'
